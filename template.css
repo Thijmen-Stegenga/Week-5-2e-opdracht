@@ -1,0 +1,78 @@
+body{
+	background-image: url("header.jpg");
+	margin-top: 0px;
+	margin-left: 0px;
+	overflow: hidden;
+}
+
+#logo1{
+	display: block;
+	margin: 5% auto 0% auto;
+}
+#images1{
+	color:grey;
+	display:block;
+	margin: 5% auto 5% 32%;
+    width: 850px;
+    word-spacing: 50px;
+   
+}
+#menu1{
+	word-spacing: 20px;
+	color:grey;
+	width: 850px;
+	margin:-3% 4.5% 15% auto;
+}
+a{
+	color:grey;
+}
+
+.gifs{
+	margin-bottom: 20%;
+	margin-left: 10%;
+	margin-top: 0%;
+}
+.tekst1{
+	color:white;
+}
+.pages{
+	margin-left: 115px;
+	margin-right: 50px;
+}
+.portfolio{
+	margin-left: 115px;
+	margin-right: 50px;
+}
+
+.blogs{
+	margin-left: 115px;
+	margin-right: 50px;
+}
+.contact{
+	margin-left: 115px;
+	margin-right: 50px;
+}
+.payment{
+	margin-left: 115px;
+	margin-right: 50px;
+}
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
